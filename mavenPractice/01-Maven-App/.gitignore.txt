@@ -1,1 +1,1 @@
-target\classes\in\ashokit
+target/classes/in/ashokit
